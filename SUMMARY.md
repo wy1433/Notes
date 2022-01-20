@@ -1,6 +1,6 @@
 # Table of contents
 
-* [深入理解Rocksdb](README.md)
+* [深入理解rocksdb](README.md)
 
 ## background
 
@@ -8,7 +8,8 @@
 
 ## principle
 
-* [Page 1](principle/page-1.md)
+* [Page 1](principle/page-1/README.md)
+  * [Page 7](principle/page-1/page-7.md)
 
 ## design
 
