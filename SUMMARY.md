@@ -10,6 +10,7 @@
 
 * [Page 1](principle/page-1/README.md)
   * [Page 7](principle/page-1/page-7.md)
+* [Page 8](principle/page-8.md)
 
 ## design
 
