@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting started](README.md)
+* [深入理解Rocksdb](README.md)
 
 ## background
 
